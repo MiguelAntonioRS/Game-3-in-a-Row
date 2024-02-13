@@ -9,7 +9,7 @@ Para ejecutar el juego, sigue estos pasos:
 1. Clona este repositorio a tu máquina local usando Git:
 
     ```bash
-    git clone [My Account](https://github.com/MiguelAntonioRS/Game-3-in-a-Row)
+    git clone (https://github.com/MiguelAntonioRS/Game-3-in-a-Row)
     ```
 
 2. Navega al directorio del proyecto:
