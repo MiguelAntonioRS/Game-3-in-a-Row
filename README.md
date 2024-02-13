@@ -9,7 +9,7 @@ Para ejecutar el juego, sigue estos pasos:
 1. Clona este repositorio a tu máquina local usando Git:
 
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/MiguelAntonioRS)
+    git clone (https://github.com/MiguelAntonioRS)
     ```
 
 2. Navega al directorio del proyecto:
