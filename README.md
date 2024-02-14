@@ -36,6 +36,8 @@ Para ejecutar el juego, sigue estos pasos:
 
 -Un entorno de desarrollo integrado (IDE) compatible con Java, como Eclipse, IntelliJ IDEA o NetBeans.
 
+-Acceso a la línea de comandos o terminal.
+
 
 ## Cómo jugar
 
