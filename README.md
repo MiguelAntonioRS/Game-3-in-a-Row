@@ -17,7 +17,7 @@ Para ejecutar el juego, sigue estos pasos:
     ```bash
     cd Game-3-in-a-Row
     cd src
-    cd Game
+    cd game
     ```
 
 3. Compila el código Java:
