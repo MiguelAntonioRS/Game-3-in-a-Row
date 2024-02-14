@@ -29,7 +29,7 @@ Para ejecutar el juego, sigue estos pasos:
 4. Ejecuta el juego:
 
     ```bash
-    java ThreeX
+    java ThreeX.java
     ```
 ## Requisitos
 -Java Development Kit (JDK) 8 o superior.
