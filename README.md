@@ -31,6 +31,11 @@ Para ejecutar el juego, sigue estos pasos:
     ```bash
     java ThreeX
     ```
+## Requisitos
+-Java Development Kit (JDK) 8 o superior.
+
+-Un entorno de desarrollo integrado (IDE) compatible con Java, como Eclipse, IntelliJ IDEA o NetBeans.
+
 
 ## Cómo jugar
 
