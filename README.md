@@ -14,7 +14,7 @@ Para ejecutar el juego, sigue estos pasos:
 
 2. Navega al directorio del proyecto:
 
-    ```bash
+    ```bash 
     cd Game-3-in-a-Row
     cd src
     cd game
