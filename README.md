@@ -11,7 +11,7 @@ Para ejecutar el juego, sigue estos pasos:
     ```bash
     git clone https://github.com/MiguelAntonioRS/Game-3-in-a-Row
     ``` 
-
+ 
 2. Navega al directorio del proyecto:  
 
     ```bash 
